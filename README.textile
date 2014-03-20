@@ -1,0 +1,1 @@
+Reads COMPSTAT PDFs published by the New York City Police Department and extracts the latest New York City crime statistics. Incorporates earlier data on felony index crimes.
